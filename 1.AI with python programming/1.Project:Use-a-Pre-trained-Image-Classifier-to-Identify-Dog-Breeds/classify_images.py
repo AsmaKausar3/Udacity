@@ -2,9 +2,8 @@
 # -*- coding: utf-8 -*-
 # */AIPND-revision/intropyproject-classify-pet-images/classify_images.py
 #                                                                             
-# PROGRAMMER: EMMANUEL MAYOWA SAMUEL 
-# DATE CREATED: 03/12/2022                                
-# REVISED DATE: 04/12/2022
+# PROGRAMMER: Shaik Asma Kausar
+# DATE CREATED: 05/08/2024
 # PURPOSE: Create a function classify_images that uses the classifier function 
 #          to create the classifier labels and then compares the classifier 
 #          labels to the pet image labels. This function inputs:
